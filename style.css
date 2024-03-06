@@ -191,6 +191,8 @@ h2>span{
 
   .gmap {
     padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
     border-radius: 10px;
     box-shadow: 0 0 0 5px #441b1b;
     animation: borderAnimation 2s infinite alternate;
